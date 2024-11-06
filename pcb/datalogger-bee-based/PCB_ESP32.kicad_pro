@@ -484,7 +484,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "../TEST YAHIKO V2/",
+      "plot": "outputs/",
       "pos_files": "../ARCHIVOS COMPONENTES/",
       "specctra_dsn": "",
       "step": "ARCHIVOS DISEÑO 3D/PCB_ESP32.step",
